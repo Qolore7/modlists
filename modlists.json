@@ -37,12 +37,12 @@
       "SizeOfInstalledFiles": 13035833609
     },
     "version": "1.0.0"
-  },  {
+  },  
+  {
   "title": "The Sands",
   "description": "A modlist focused on making the Mojave Wasteland more deserving of its name. The Sands aims to create difficult gameplay that rewards the player for proper planning and execution, while also improving/re-working copious amounts of vanilla content.",
   "author": "Qolore7",
   "maintainers": [
-    "github/Qolore7"
     "Qolore7"
   ],
   "game": "falloutnewvegas",
@@ -74,6 +74,6 @@
       "NumberOfInstalledFiles": 53533,
       "SizeOfInstalledFiles": 10587013196
     },
-  "version": "1.0.0",
+  "version": "1.0.0"
 }
 ]
