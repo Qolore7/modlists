@@ -26,7 +26,7 @@
       "readme": "https://raw.githubusercontent.com/Qolore7/moonshadow/main/README.md",
       "download": "https://authored-files.wabbajack.org/Moonshadow.wabbajack_c4344a81-c2ff-4468-89d3-c9f08dd4058c",
       "machineURL": "moonshadow",
-      "discordURL": "https://discord.gg/viva-new-vegas-659108573485465620"
+      "discordURL": "https://discord.gg/SZGAXZYtHf"
     },
     "download_metadata": {
       "Hash": "84lQl25oS94=",
@@ -62,18 +62,18 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Qolore7/the-sands/main/logo.webp",
       "readme": "https://raw.githubusercontent.com/Qolore7/the-sands/main/README.md",
-      "download": "https://authored-files.wabbajack.org/The Sands.wabbajack_3be7ac80-1dc6-4f44-b4f9-9f9a2266c59b",
+      "download": "https://authored-files.wabbajack.org/The Sands.wabbajack_82b75989-b52f-4efd-8553-c2c42054b773",
       "machineURL": "thesands",
       "discordURL": "https://discord.gg/SZGAXZYtHf"
     },
     "download_metadata": {
-      "Hash": "PRy4PBg6/tA=",
-      "Size": 242286295,
-      "NumberOfArchives": 212,
-      "SizeOfArchives": 6143543452,
+      "Hash": "+hRprEgKYBg=",
+      "Size": 241003846,
+      "NumberOfArchives": 213,
+      "SizeOfArchives": 6144378082,
       "NumberOfInstalledFiles": 53533,
-      "SizeOfInstalledFiles": 10587013196
+      "SizeOfInstalledFiles": 10574962285
     },
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
 ]
