@@ -37,5 +37,43 @@
       "SizeOfInstalledFiles": 13035833609
     },
     "version": "1.0.0"
-  }
+  },  {
+  "title": "The Sands",
+  "description": "A modlist focused on making the Mojave Wasteland more deserving of its name. The Sands aims to create difficult gameplay that rewards the player for proper planning and execution, while also improving/re-working copious amounts of vanilla content.",
+  "author": "Qolore7",
+  "maintainers": [
+    "github/Qolore7"
+    "Qolore7"
+  ],
+  "game": "falloutnewvegas",
+  "official": false,
+  "tags": [
+    "Lightweight",
+    "Hardcore",
+    "Lore-Friendly",
+    "Performance",
+    "Steam Deck",
+    "GOG"
+  ],
+  "nsfw": false,
+  "utility_list": false,
+  "image_contains_title": true,
+  "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/Qolore7/the-sands/main/logo.webp",
+      "readme": "https://raw.githubusercontent.com/Qolore7/the-sands/main/README.md",
+      "download": "https://authored-files.wabbajack.org/The Sands.wabbajack_3be7ac80-1dc6-4f44-b4f9-9f9a2266c59b",
+      "machineURL": "thesands",
+      "discordURL": "https://discord.gg/SZGAXZYtHf"
+    },
+    "download_metadata": {
+      "Hash": "PRy4PBg6/tA=",
+      "Size": 242286295,
+      "NumberOfArchives": 212,
+      "SizeOfArchives": 6143543452,
+      "NumberOfInstalledFiles": 53533,
+      "SizeOfInstalledFiles": 10587013196
+    },
+  "version": "1.0.0",
+}
 ]
