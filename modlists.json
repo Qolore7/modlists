@@ -52,7 +52,6 @@
     "Hardcore",
     "Lore-Friendly",
     "Performance",
-    "Steam Deck",
     "GOG"
   ],
   "nsfw": false,
@@ -61,18 +60,18 @@
   "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/Qolore7/the-sands/main/logo.webp",
-      "readme": "https://raw.githubusercontent.com/Qolore7/the-sands/main/README.md",
-      "download": "https://authored-files.wabbajack.org/The Sands.wabbajack_a064a017-ecdb-423f-a933-60f7576db5bf",
+      "readme": "https://github.com/Qolore7/the-sands/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/The Sands.wabbajack_e572a262-dd86-46d3-81ed-7ed5cc87f8a4",
       "machineURL": "thesands",
       "discordURL": "https://discord.gg/SZGAXZYtHf"
     },
     "download_metadata": {
-      "Hash": "6uxfWRY2XXw=",
-      "Size": 241140881,
-      "NumberOfArchives": 212,
-      "SizeOfArchives": 6127828378,
-      "NumberOfInstalledFiles": 53535,
-      "SizeOfInstalledFiles": 10558737486
+      "Hash": "9HBKF4Sy64w=",
+      "Size": 241752796,
+      "NumberOfArchives": 204,
+      "SizeOfArchives": 2545927752,
+      "NumberOfInstalledFiles": 11721,
+      "SizeOfInstalledFiles": 4728754138
     },
   "version": "1.0.1"
 }
