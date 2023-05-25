@@ -38,6 +38,45 @@
     },
     "version": "1.0.0"
   },  
+    {
+    "title": "Moonshadow",
+    "description": "Moonshadow is an extremely lightweight and performance friendly Requiem-based modlist focused on roleplaying and creating a harsh fantasy world de-centralized from the player that incentivizes preparation and strategy.",
+    "author": "Qolore7",
+    "maintainers": [
+      "github/Qolore7",
+      "Qolore7"
+    ],
+    "game": "skyrimspecialedition",
+    "official": false,
+    "tags": [
+      "Requiem",
+      "Creation Club",
+      "NeverNude",
+      "Performance",
+      "Steam Deck",
+      "GOG"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/Qolore7/moonshadow/main/logo.webp",
+      "readme": "https://github.com/Qolore7/moonshadow/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Moonshadow.wabbajack_c4344a81-c2ff-4468-89d3-c9f08dd4058c",
+      "machineURL": "moonshadow",
+      "discordURL": "https://discord.gg/SZGAXZYtHf"
+    },
+    "download_metadata": {
+      "Hash": "84lQl25oS94=",
+      "Size": 63119155,
+      "NumberOfArchives": 350,
+      "SizeOfArchives": 9489422415,
+      "NumberOfInstalledFiles": 33659,
+      "SizeOfInstalledFiles": 13035833609
+    },
+    "version": "1.0.0"
+  },  
   {
   "title": "The Sands",
   "description": "A modlist focused on making the Mojave Wasteland more deserving of its name. The Sands aims to create difficult gameplay that rewards the player for proper planning and execution, while also improving/re-working copious amounts of vanilla content.",
