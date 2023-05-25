@@ -39,41 +39,40 @@
     "version": "1.0.0"
   },  
     {
-    "title": "Moonshadow",
-    "description": "Moonshadow is an extremely lightweight and performance friendly Requiem-based modlist focused on roleplaying and creating a harsh fantasy world de-centralized from the player that incentivizes preparation and strategy.",
+    "title": "Lost Liberty",
+    "description": "Lost Liberty lightweight and highly-curated modlist aimed at creating a polished survival-like experience in Fallout 3.",
     "author": "Qolore7",
     "maintainers": [
       "github/Qolore7",
       "Qolore7"
     ],
-    "game": "skyrimspecialedition",
+    "game": "fallout3",
     "official": false,
     "tags": [
-      "Requiem",
-      "Creation Club",
-      "NeverNude",
-      "Performance",
-      "Steam Deck",
-      "GOG"
+		"Lightweight",
+		"Hardcore",
+		"Lore-Friendly",
+		"Performance",
+		"GOG"
     ],
     "nsfw": false,
     "utility_list": false,
     "image_contains_title": true,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/Qolore7/moonshadow/main/logo.webp",
-      "readme": "https://github.com/Qolore7/moonshadow/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Moonshadow.wabbajack_c4344a81-c2ff-4468-89d3-c9f08dd4058c",
-      "machineURL": "moonshadow",
+      "image": "https://raw.githubusercontent.com/Qolore7/lost-liberty/main/logo.webp",
+      "readme": "https://github.com/Qolore7/lostliberty/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Lost Liberty.wabbajack_4b04f2eb-7350-4bf9-8534-1a0d725f4c56",
+      "machineURL": "lostliberty",
       "discordURL": "https://discord.gg/VXvZWsxzEG"
     },
     "download_metadata": {
-      "Hash": "84lQl25oS94=",
-      "Size": 63119155,
-      "NumberOfArchives": 350,
-      "SizeOfArchives": 9489422415,
-      "NumberOfInstalledFiles": 33659,
-      "SizeOfInstalledFiles": 13035833609
+      "Hash": "2SvFQhO5Ycg=",
+      "Size": 6955801,
+      "NumberOfArchives": 93,
+      "SizeOfArchives": 3688387107,
+      "NumberOfInstalledFiles": 11269,
+      "SizeOfInstalledFiles": 5394376223
     },
     "version": "1.0.0"
   },  
