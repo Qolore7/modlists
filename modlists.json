@@ -62,19 +62,19 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Qolore7/lost-liberty/main/logo.webp",
       "readme": "https://github.com/Qolore7/lostliberty/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Lost Liberty.wabbajack_1a032932-be79-482f-8409-629fe456aa62",
+      "download": "https://authored-files.wabbajack.org/Lost Liberty.wabbajack_d46c9fc5-b22a-483f-ae8b-dfac099544be",
       "machineURL": "lostliberty",
       "discordURL": "https://discord.gg/VXvZWsxzEG"
     },
     "download_metadata": {
-      "Hash": "41GWMmT9NZs=",
-      "Size": 6956051,
+      "Hash": "/StMgxj6Weo=",
+      "Size": 6987629,
       "NumberOfArchives": 93,
       "SizeOfArchives": 3688387107,
-      "NumberOfInstalledFiles": 11269,
-      "SizeOfInstalledFiles": 5394376516
+      "NumberOfInstalledFiles": 11272,
+      "SizeOfInstalledFiles": 5394762508
     },
-    "version": "1.0.0"
+    "version": "1.0.1"
   },  
   {
   "title": "The Sands",
