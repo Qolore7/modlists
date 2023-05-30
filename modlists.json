@@ -24,19 +24,19 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Qolore7/moonshadow/main/logo.webp",
       "readme": "https://github.com/Qolore7/moonshadow/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Moonshadow.wabbajack_c4344a81-c2ff-4468-89d3-c9f08dd4058c",
+      "download": "https://authored-files.wabbajack.org/Moonshadow.wabbajack_5e432667-742f-4c04-8831-2db91ee80ffa",
       "machineURL": "moonshadow",
       "discordURL": "https://discord.gg/VXvZWsxzEG"
     },
     "download_metadata": {
-      "Hash": "84lQl25oS94=",
-      "Size": 63119155,
-      "NumberOfArchives": 350,
-      "SizeOfArchives": 9489422415,
-      "NumberOfInstalledFiles": 33659,
-      "SizeOfInstalledFiles": 13035833609
+      "Hash": "wLgSYlhQrMk=",
+      "Size": 64173902,
+      "NumberOfArchives": 389,
+      "SizeOfArchives": 11259679580,
+      "NumberOfInstalledFiles": 35497,
+      "SizeOfInstalledFiles": 14533495708
     },
-    "version": "1.0.0"
+    "version": "1.1.0"
   },  
     {
     "title": "Lost Liberty",
