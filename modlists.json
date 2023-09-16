@@ -38,6 +38,45 @@
     },
     "version": "1.1.0"
   },  
+  {
+    "title": "Vanguard",
+    "description": "Vanguard features a unique set of highly curated mods that combine the new features/mechanics of modern combat mods like MCO with the traditional roleplaying and character building of The Elder Scrolls series, all on top of an extremely performance friendly and gorgeous visual overhaul.",
+    "author": "Qolore7",
+    "maintainers": [
+      "github/Qolore7",
+      "Qolore7"
+    ],
+    "game": "skyrimspecialedition",
+    "official": false,
+    "tags": [
+      "MCO",
+      "Performance",
+      "Roleplaying",
+      "Balanced",
+      "Lightweight",
+      "GOG"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/Qolore7/vanguard/main/logo.webp",
+      "readme": "https://github.com/Qolore7/vanguard/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Vanguard.wabbajack_c6fbefcc-bbd8-46e3-9dfb-80cc5ada903f",
+      "machineURL": "vanguard",
+      "discordURL": "https://discord.gg/VXvZWsxzEG"
+    },
+    "download_metadata": {
+      "Hash": "YBl2onM9kn8=",
+      "Size": 217270575,
+      "NumberOfArchives": 501,
+      "SizeOfArchives": 17255998924,
+      "NumberOfInstalledFiles": 54680,
+      "SizeOfInstalledFiles": 22895431163
+    },
+    "version": "1.0.0"
+  },  
     {
     "title": "Lost Liberty",
     "description": "Lost Liberty lightweight and highly-curated modlist aimed at creating a polished survival-like experience in Fallout 3.",
