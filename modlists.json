@@ -50,6 +50,7 @@
     "official": false,
     "tags": [
       "MCO",
+      "Open Cities",
       "Performance",
       "Roleplaying",
       "Balanced",
@@ -63,19 +64,19 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Qolore7/vanguard/main/logo.webp",
       "readme": "https://github.com/Qolore7/vanguard/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Vanguard.wabbajack_c6fbefcc-bbd8-46e3-9dfb-80cc5ada903f",
+      "download": "https://authored-files.wabbajack.org/Vanguard.wabbajack_8df7cee3-f1e6-47e8-b76c-4652709cd691",
       "machineURL": "vanguard",
       "discordURL": "https://discord.gg/VXvZWsxzEG"
     },
     "download_metadata": {
-      "Hash": "YBl2onM9kn8=",
-      "Size": 217270575,
-      "NumberOfArchives": 501,
-      "SizeOfArchives": 17255998924,
-      "NumberOfInstalledFiles": 54680,
-      "SizeOfInstalledFiles": 22895431163
+      "Hash": "44VieT4UPgQ=",
+      "Size": 218894546,
+      "NumberOfArchives": 507,
+      "SizeOfArchives": 17306870753,
+      "NumberOfInstalledFiles": 55357,
+      "SizeOfInstalledFiles": 23108835310
     },
-    "version": "1.0.0"
+    "version": "1.0.1"
   },  
     {
     "title": "Lost Liberty",
