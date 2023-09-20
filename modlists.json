@@ -69,14 +69,14 @@
       "discordURL": "https://discord.gg/VXvZWsxzEG"
     },
     "download_metadata": {
-      "Hash": "44VieT4UPgQ=",
-      "Size": 218894546,
-      "NumberOfArchives": 507,
-      "SizeOfArchives": 17306870753,
-      "NumberOfInstalledFiles": 55357,
-      "SizeOfInstalledFiles": 23108835310
+      "Hash": "F+wqDJ9XS9c=",
+      "Size": 209157045,
+      "NumberOfArchives": 512,
+      "SizeOfArchives": 17311289649,
+      "NumberOfInstalledFiles": 55409,
+      "SizeOfInstalledFiles": 23105660739
     },
-    "version": "1.0.1"
+    "version": "1.0.2"
   },  
     {
     "title": "Lost Liberty",
