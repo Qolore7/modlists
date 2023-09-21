@@ -64,19 +64,19 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Qolore7/vanguard/main/logo.webp",
       "readme": "https://github.com/Qolore7/vanguard/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Vanguard.wabbajack_a45e2eb4-d8b8-49d3-bf01-d66f66fb4894",
+      "download": "https://authored-files.wabbajack.org/Vanguard.wabbajack_46d06ed3-8183-4a46-a061-30784f093e30",
       "machineURL": "vanguard",
       "discordURL": "https://discord.gg/VXvZWsxzEG"
     },
     "download_metadata": {
-      "Hash": "F+wqDJ9XS9c=",
-      "Size": 209157045,
-      "NumberOfArchives": 512,
-      "SizeOfArchives": 17311289649,
-      "NumberOfInstalledFiles": 55409,
-      "SizeOfInstalledFiles": 23105660739
+      "Hash": "2G28d1AXgVA=",
+      "Size": 209146918,
+      "NumberOfArchives": 514,
+      "SizeOfArchives": 17315765439,
+      "NumberOfInstalledFiles": 55645,
+      "SizeOfInstalledFiles": 23127786502
     },
-    "version": "1.0.2"
+    "version": "1.0.3"
   },  
     {
     "title": "Lost Liberty",
