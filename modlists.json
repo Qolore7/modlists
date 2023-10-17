@@ -118,7 +118,7 @@
   },  
   {
   "title": "The Sands",
-  "description": "A modlist focused on making the Mojave Wasteland more deserving of its name. The Sands aims to create difficult gameplay that rewards the player for proper planning and execution, while also improving/re-working copious amounts of vanilla content.",
+  "description": "The Sands aims to create difficult gameplay that rewards the player for proper planning and execution, while also improving/re-working copious amounts of vanilla content, adding new content, and adding many new playstyles and roleplay opportunities.",
   "author": "Qolore7",
   "maintainers": [
     "Qolore7"
@@ -139,18 +139,18 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Qolore7/the-sands/main/logo.webp",
       "readme": "https://github.com/Qolore7/the-sands/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/The Sands.wabbajack_6a106ec6-9d74-46ae-9100-9697dbfb0112",
+      "download": "https://authored-files.wabbajack.org/The Sands.wabbajack_3916a72c-e858-4386-95f7-b10306abcfb3",
       "machineURL": "thesands",
       "discordURL": "https://discord.gg/VXvZWsxzEG"
     },
     "download_metadata": {
-      "Hash": "iO0PSxGaooo=",
-      "Size": 248616355,
-      "NumberOfArchives": 215,
-      "SizeOfArchives": 2927742180,
-      "NumberOfInstalledFiles": 11657,
-      "SizeOfInstalledFiles": 5009712003
+      "Hash": "PbTLES+o8j0=",
+      "Size": 249640113,
+      "NumberOfArchives": 268,
+      "SizeOfArchives": 4571543475,
+      "NumberOfInstalledFiles": 41191,
+      "SizeOfInstalledFiles": 10807540278
     },
-  "version": "1.0.2"
+  "version": "1.1.0"
 }
 ]
