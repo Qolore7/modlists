@@ -139,18 +139,18 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Qolore7/the-sands/main/logo.webp",
       "readme": "https://github.com/Qolore7/the-sands/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/The Sands.wabbajack_3916a72c-e858-4386-95f7-b10306abcfb3",
+      "download": "https://authored-files.wabbajack.org/The Sands.wabbajack_44fa7a2b-fd9b-4835-9f56-1d97fea36a37",
       "machineURL": "thesands",
       "discordURL": "https://discord.gg/VXvZWsxzEG"
     },
     "download_metadata": {
-      "Hash": "PbTLES+o8j0=",
-      "Size": 249640113,
-      "NumberOfArchives": 268,
-      "SizeOfArchives": 4571543475,
-      "NumberOfInstalledFiles": 41191,
-      "SizeOfInstalledFiles": 10807540278
+      "Hash": "nlKhx1lU4yo=",
+      "Size": 249645726,
+      "NumberOfArchives": 271,
+      "SizeOfArchives": 4577213200,
+      "NumberOfInstalledFiles": 41221,
+      "SizeOfInstalledFiles": 10814001741
     },
-  "version": "1.1.0"
+  "version": "1.1.1"
 }
 ]
