@@ -60,7 +60,7 @@
     "nsfw": false,
     "utility_list": false,
     "image_contains_title": true,
-    "force_down": true,
+    "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/Qolore7/vanguard/main/logo.webp",
       "readme": "https://github.com/Qolore7/vanguard/blob/main/README.md",
